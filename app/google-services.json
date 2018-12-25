@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "370317559767",
+    "firebase_url": "https://newchatapp-55fdd.firebaseio.com",
+    "project_id": "newchatapp-55fdd",
+    "storage_bucket": "newchatapp-55fdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370317559767:android:9362a087e5b0591d",
+        "android_client_info": {
+          "package_name": "junaidandusman.newchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370317559767-kt64n6gngia14jlkont6un8qa5v1p5do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "junaidandusman.newchatapp",
+            "certificate_hash": "1de754596c3a5372d975bebf2952296d755f18ee"
+          }
+        },
+        {
+          "client_id": "370317559767-upddchq79kvolaspb7di0ko2r01rtqls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5tomkS0y3vnbjZuQqFt-LK1jyI4mmg4s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370317559767-upddchq79kvolaspb7di0ko2r01rtqls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
